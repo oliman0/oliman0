@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThatOneGuy71
-- 👀 I’m interested in Websites
+- 👀 I’m interested in Minecraft
 - 🌱 I’m currently learning NodeJS
 - 💞️ I’m looking to collaborate on Nothing
 - 📫 How to reach me: Discord is Oliman#6146
