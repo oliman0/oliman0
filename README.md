@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ThatOneGuy71
 - 👀 I’m interested in Games Development
-- 🌱 I’m currently learning C++/OpenGL
+- 🌱 I’m currently learning Game Dev with Unity
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: Discord is Oliman#6146
 
