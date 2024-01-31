@@ -1,3 +1,3 @@
-Hi I'm Oli and I'm currently trying to learn OpenGL and C++
+Hi I'm Oli o/
 
 Discord: Oliman#6146
