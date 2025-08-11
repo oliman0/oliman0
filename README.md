@@ -2,7 +2,7 @@
 - C++ and JavaScript programmer
 - CS student
 
-Discord: _oliman
+Discord: jxssiix
 
 <!--
 **oliman0/oliman0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
