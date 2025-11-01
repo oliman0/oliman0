@@ -1,5 +1,5 @@
-## Hi I'm Jessie
-- C/C++ and JavaScript programmer
+## Hi I'm Jessie (she/her)
+- C/C++, C# and JavaScript
 - CS student
 
 Discord: jxssiix
